@@ -6,5 +6,4 @@ Clothes menu for off/on your clothes!
 - You can change language on ```config.lua``` file.
 
 ## 2. Info
-- KLC
-- To get support --> [Discord](http://discord.vorpcore.com/)
+- I will no longer support this resource
